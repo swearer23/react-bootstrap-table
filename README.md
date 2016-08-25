@@ -1,3 +1,7 @@
+## IT'S A FORK OF react-bootstrap-table
+
+## BELOW ARE THE README FILE CONTENT OF THE ORIGIN PROJECT. BE CAUTION WHEN YOU USE
+
 # react-bootstrap-table
 
 [![Join the chat at https://gitter.im/AllenFang/react-bootstrap-table](https://badges.gitter.im/AllenFang/react-bootstrap-table.svg)](https://gitter.im/AllenFang/react-bootstrap-table?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

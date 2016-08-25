@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-table",
+  "name": "react-bootstrap-table-with-extra-pagination-params",
   "version": "2.4.3",
   "description": "It's a fork of react table for bootstrap",
   "main": "./lib/index.js",
@@ -27,7 +27,7 @@
   "tags": [
     "react"
   ],
-  "author": "RolloTomasi",
+  "author": "rollo-tomasi",
   "license": "MIT",
   "devDependencies": {
     "babel": "^5.8.29",
